@@ -1,0 +1,16 @@
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao9\ProjectComposition\ProjectComposition\bin\Debug\net5.0\ProjectComposition.exe
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao9\ProjectComposition\ProjectComposition\bin\Debug\net5.0\ProjectComposition.deps.json
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao9\ProjectComposition\ProjectComposition\bin\Debug\net5.0\ProjectComposition.runtimeconfig.json
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao9\ProjectComposition\ProjectComposition\bin\Debug\net5.0\ProjectComposition.runtimeconfig.dev.json
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao9\ProjectComposition\ProjectComposition\bin\Debug\net5.0\ProjectComposition.dll
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao9\ProjectComposition\ProjectComposition\bin\Debug\net5.0\ref\ProjectComposition.dll
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao9\ProjectComposition\ProjectComposition\bin\Debug\net5.0\ProjectComposition.pdb
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao9\ProjectComposition\ProjectComposition\obj\Debug\net5.0\ProjectComposition.csproj.AssemblyReference.cache
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao9\ProjectComposition\ProjectComposition\obj\Debug\net5.0\ProjectComposition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao9\ProjectComposition\ProjectComposition\obj\Debug\net5.0\ProjectComposition.AssemblyInfoInputs.cache
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao9\ProjectComposition\ProjectComposition\obj\Debug\net5.0\ProjectComposition.AssemblyInfo.cs
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao9\ProjectComposition\ProjectComposition\obj\Debug\net5.0\ProjectComposition.csproj.CoreCompileInputs.cache
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao9\ProjectComposition\ProjectComposition\obj\Debug\net5.0\ProjectComposition.dll
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao9\ProjectComposition\ProjectComposition\obj\Debug\net5.0\ref\ProjectComposition.dll
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao9\ProjectComposition\ProjectComposition\obj\Debug\net5.0\ProjectComposition.pdb
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao9\ProjectComposition\ProjectComposition\obj\Debug\net5.0\ProjectComposition.genruntimeconfig.cache
